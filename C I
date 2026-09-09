@@ -1,0 +1,11 @@
+A sum of ₹10,000 is invested at 10% per annum compound interest for 2 years. What is the amount after 2 years?
+A) ₹11,000
+B) ₹12,000
+C) ₹12,100
+D) ₹12,200
+Solution :
+       C I =p(1+r/10))
+           = 10000(1+10/100)^2
+            =12100
+
+Answer: C
