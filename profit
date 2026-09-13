@@ -1,0 +1,15 @@
+A shopkeeper buys an article for ₹1,200 and sells it for ₹1,440. What is the profit percentage?
+A) 15%
+B) 18%
+C) 20%
+D) 25%
+Solution : 
+         cost=1200
+         sell==1440
+
+profit=s-c
+      = 240
+profit %= profit/c*100
+         = 240/1200*100
+          = 20%
+Answer : C
