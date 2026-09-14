@@ -1,0 +1,16 @@
+The average of 8 numbers is 25. If one number 32 is replaced by 48, what will be the new average?
+A) 26
+B) 27
+C) 28
+D) 29
+Solution :
+       a+b+c+d+e+f+g+h =25
+       8M=25*8
+      8m= 200
+     7M=200-32
+      7m=168
+ new member=48
+ 8M average=168+48/8
+            = 27
+
+Answer: B
