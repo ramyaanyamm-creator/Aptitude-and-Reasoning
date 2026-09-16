@@ -1,0 +1,13 @@
+The average age of 5 students is 20 years. When a sixth student joins the group, the average age becomes 21 years. What is the age of the sixth student?
+A) 24 years
+B) 25 years
+C) 26 years
+D) 27 years
+Solution : 
+          5M/5=20
+          a+b+c+d+e=5*20  ==100
+          a+b+c+d+e+f/6 = 21
+          100 + f =126
+          f = 26
+          
+Answer: C) 26 years
