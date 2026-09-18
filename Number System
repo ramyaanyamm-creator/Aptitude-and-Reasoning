@@ -1,0 +1,19 @@
+A number leaves a remainder of 5 when divided by 12. What remainder will 3 times that number leave when divided by 12?
+A) 1
+B) 3
+C) 5
+D) 7
+Solution :
+         $$ N=12k+5 $$
+
+Three times the number:
+
+$$ 3N=3(12k+5) $$ $$ =36k+15 $$
+
+Since 36k is divisible by 12:
+
+$$ 15\div12 \text{ leaves remainder } \boxed{3} $$
+
+Difficulty: Easy–Medium
+
+Answer: D) 3
