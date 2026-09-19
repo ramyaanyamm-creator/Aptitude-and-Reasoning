@@ -1,0 +1,24 @@
+A container contains 40 litres of milk. 8 litres of milk are removed and replaced with 8 litres of water. This process is repeated once more. How much milk is left in the container?
+
+A) 24.0 litres
+B) 25.6 litres
+C) 26.4 litres
+D) 28.0 litres
+
+Answer: B) 25.6 litres
+
+Explanation:
+
+After the first replacement:
+
+$$ 40-8=32\text{ litres milk} $$
+
+After the second replacement, the fraction of milk remaining is:
+
+$$ \frac{32}{40}=\frac45 $$
+
+So milk left:
+
+$$ 32\times\frac45=25.6 $$
+25.6 litres
+	​
