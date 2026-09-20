@@ -1,0 +1,24 @@
+The present ages of A and B are in the ratio 4 : 5. After 6 years, their ages will be in the ratio 5 : 6. What is A's present age?
+A) 18 years
+B) 20 years
+C) 24 years
+D) 30 years
+Solution : 
+            A : B = 4 : 5
+            Let their present ages be:
+
+$$ A=4x,\quad B=5x $$
+
+After 6 years:
+
+$$ \frac{4x+6}{5x+6}=\frac56 $$
+
+Cross multiply:
+
+$$ 6(4x+6)=5(5x+6) $$ $$ 24x+36=25x+30 $$ $$ x=6 $$
+
+Therefore:
+
+A=4(6)=
+24 years
+Answer: C) 24 years
