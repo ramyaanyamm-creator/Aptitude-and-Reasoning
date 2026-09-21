@@ -1,0 +1,21 @@
+How many different 3-letter arrangements can be made using the letters A, B, C, D, and E, without repeating any letter?
+
+A) 10
+B) 15
+C) 60
+D) 125
+
+Answer: C) 60
+
+Explanation:
+
+For the first position, there are 5 choices.
+
+For the second position, 4 choices remain.
+
+For the third position, 3 choices remain.
+
+Therefore:
+
+5×4×3= 60
+	​
