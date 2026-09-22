@@ -1,0 +1,32 @@
+Pipe A can fill a tank in 12 hours, while Pipe B can fill the same tank in 18 hours. If both pipes are opened together, how long will they take to fill the tank?
+
+A) 6 hours
+B) 7.2 hours
+C) 8 hours
+D) 9 hours
+
+Answer: B) 7.2 hours
+
+Explanation:
+
+A's 1-hour work:
+
+$$ \frac{1}{12} $$
+
+B's 1-hour work:
+
+$$ \frac{1}{18} $$
+
+Together:
+
+$$ \frac{1}{12}+\frac{1}{18} =\frac{3+2}{36} =\frac{5}{36} $$
+
+Therefore, time required:
+
+5
+36
+	​
+
+=
+7.2 hours
+	​
