@@ -1,0 +1,21 @@
+A sum of ₹10,000 is invested at a compound interest rate of 10% per annum for 2 years. What is the compound interest earned?
+
+A) ₹2,000
+B) ₹2,100
+C) ₹2,200
+D) ₹2,500
+
+Answer: B) ₹2,100
+
+Explanation:
+
+Amount after 2 years:
+
+A=P\left(1+\frac{R}{100}\right)^T $$ $$ A=10000(1.1)^2 $$ $$ A=10000\times1.21=₹12,100 $$
+
+Compound Interest:
+
+CI=A-P 
+=12100−10000=
+₹2,100
+	​
