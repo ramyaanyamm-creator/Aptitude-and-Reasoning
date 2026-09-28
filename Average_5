@@ -1,0 +1,17 @@
+The average of 6 numbers is 24. If one of the numbers, 30, is removed, what will be the average of the remaining 5 numbers?
+
+A) 22.2
+B) 22.8
+C) 23.2
+D) 23.5
+
+Answer: B) 22.8
+
+Explanation:
+
+Total of 6 numbers:
+ 6\times24=144 
+Remove 30:
+144-30=114 $$
+Remaining numbers = 5
+ New\ Average=\frac{114}{5} $=22.8
