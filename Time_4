@@ -1,0 +1,39 @@
+A can complete a piece of work in 15 days, and B can complete the same work in 20 days. They work together for 5 days. What fraction of the work is still remaining?
+
+A) \(\frac{1}{4}\)
+B) \(\frac{5}{12}\)
+C) \(\frac{7}{12}\)
+D) \(\frac{2}{3}\)
+
+Answer: B) \(\frac{5}{12}\)
+
+Explanation:
+
+A's 1-day work:
+
+$$ \frac{1}{15} $$
+
+B's 1-day work:
+
+$$ \frac{1}{20} $$
+
+Together:
+
+$$ \frac{1}{15}+\frac{1}{20} =\frac{4+3}{60} =\frac{7}{60} $$
+
+In 5 days:
+
+$$ 5\times\frac{7}{60}=\frac{35}{60}=\frac{7}{12} $$
+
+So, work completed:
+
+$$ \frac{7}{12} $$
+
+Work remaining:
+
+$$ 1-\frac{7}{12}=\boxed{\frac{5}{12}} $$
+
+✅ Answer: B) 
+12
+5
+	​
