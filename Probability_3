@@ -1,0 +1,27 @@
+A box contains 4 red, 5 blue, and 3 green balls. One ball is selected randomly. What is the probability that the ball is not blue?
+
+A) \(\frac{5}{12}\)
+B) \(\frac{7}{12}\)
+C) \(\frac{1}{2}\)
+D) \(\frac{3}{4}\)
+
+Answer: B) \(\frac{7}{12}\)
+
+Explanation:
+
+Total balls:
+
+$$ 4+5+3=12 $$
+
+Non-blue balls:
+
+$$ 4+3=7 $$
+
+Therefore:
+
+$$ P(\text{not blue})= \frac{\text{Non-blue balls}}{\text{Total balls}} $$ $$ =\boxed{\frac{7}{12}} $$
+
+✅ Answer: B) 
+12
+7
+	​
