@@ -1,0 +1,33 @@
+A vessel contains 40 litres of a milk-water mixture in the ratio 3 : 1. How many litres of water must be added to make the ratio 3 : 2?
+
+A) 5 litres
+B) 10 litres
+C) 15 litres
+D) 20 litres
+
+Answer: B) 10 litres
+
+Explanation:
+
+Initial mixture = 40 L
+
+Milk:
+
+$$ \frac{3}{4}\times40=30\text{ L} $$
+
+Water:
+
+$$ \frac{1}{4}\times40=10\text{ L} $$
+
+Let \(x\) litres of water be added.
+
+New ratio:
+
+$$ \frac{30}{10+x}=\frac{3}{2} $$
+
+Cross multiply:
+
+$$ 60=30+3x $$ $$ 30=3x $$
+x=
+10 litres
+	​
