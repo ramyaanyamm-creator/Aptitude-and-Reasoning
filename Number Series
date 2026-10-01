@@ -1,0 +1,37 @@
+Find the missing number in the following series:
+
+3, 8, 15, 24, 35, ?
+
+A) 42
+
+B) 46
+
+C) 48
+
+D) 50
+
+Answer: C) 48
+
+Explanation:
+
+Step 1: Calculate the differences between consecutive numbers.
+
+8−3=5
+
+15−8=7
+
+24−15=9
+
+35−24=11
+
+The differences are:
+
+5, 7, 9, 11
+
+Each difference increases by 2. So the next difference is 13.
+
+Step 2: Add 13 to the last number.
+
+35+13=
+48
+	​
