@@ -1,0 +1,24 @@
+he HCF of two numbers is 8, and their LCM is 96. If one number is 24, what is the other number?
+
+A) 16
+
+B) 24
+
+C) 32
+
+D) 48
+
+Answer: C) 32
+
+Explanation:
+
+Use the formula:
+
+First number×Second number=HCF×LCM
+
+Let the other number be x.
+
+24×x=8×96
+24x=768
+x=768/24=32
+	​
