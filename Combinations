@@ -1,0 +1,30 @@
+n how many different ways can 4 students be selected from a group of 7 students?
+
+A) 21
+B) 28
+C) 35
+D) 42
+
+Answer: C) 35
+
+Explanation:
+
+Since we are selecting students and their order does not matter, use combinations:
+
+$$ ^nC_r=\frac{n!}{r!(n-r)!} $$
+
+Here:
+
+$$ ^7C_4=\frac{7!}{4!3!} $$
+
+Cancel \(4!\):
+
+$$ =\frac{7\times6\times5}{3\times2\times1} $$
+=
+6
+210
+	​
+
+=
+35
+	​
