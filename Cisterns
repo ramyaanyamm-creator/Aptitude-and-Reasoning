@@ -1,0 +1,35 @@
+Pipe A can fill a tank in 10 hours, while Pipe B can fill it in 15 hours. A third pipe C can empty the tank in 30 hours. If all three pipes are opened together, how long will it take to fill the tank?
+
+A) 6 hours
+B) 7.5 hours
+C) 8 hours
+D) 10 hours
+
+Answer: B) 7.5 hours
+
+Explanation:
+
+A's 1-hour work:
+
+$$ \frac{1}{10} $$
+
+B's 1-hour work:
+
+$$ \frac{1}{15} $$
+
+C's 1-hour work (emptying):
+
+$$ -\frac{1}{30} $$
+
+Together:
+
+$$ \frac{1}{10}+\frac{1}{15}-\frac{1}{30} $$
+
+LCM of 10, 15, and 30 = 30:
+
+$$ =\frac{3+2-1}{30} $$ $$ =\frac{4}{30}=\frac{2}{15} $$
+
+Therefore, time required:
+
+2/15=7.5 hours
+	​
