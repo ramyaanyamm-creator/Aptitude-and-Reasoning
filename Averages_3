@@ -1,0 +1,28 @@
+he average of 8 numbers is 25. If one number, 32, is replaced by 44, what will be the new average?
+
+A) 25.5
+B) 26
+C) 26.5
+D) 27
+
+Answer: B) 26
+
+Explanation:
+
+Original total:
+
+$$ 8\times25=200 $$
+
+The number 32 is replaced by 44:
+
+$$ \text{New total}=200-32+44=212 $$
+
+New average:
+
+8
+212
+	​
+
+=
+26
+	​
