@@ -1,0 +1,32 @@
+Find the missing number:
+
+2, 6, 12, 20, 30, ?
+
+A) 40
+B) 42
+C) 44
+D) 46
+
+Answer: B) 42
+
+Explanation:
+
+Look at the differences:
+
+$$ 6-2=4 $$ $$ 12-6=6 $$ $$ 20-12=8 $$ $$ 30-20=10 $$
+
+The differences are:
+
+$$ 4,\ 6,\ 8,\ 10 $$
+
+They increase by 2 each time.
+
+Next difference:
+
+$$ 10+2=12 $$
+
+Therefore:
+
+30+12=
+42
+	​
