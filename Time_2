@@ -1,0 +1,64 @@
+A can complete a piece of work in 20 days, and B can complete the same work in 30 days. How many days will they take to complete the work together?
+
+A) 10 days
+
+B) 12 days
+
+C) 15 days
+
+D) 25 days
+
+Answer: B) 12 days
+
+Explanation:
+
+Step 1: A's one-day work:
+
+20
+1
+	​
+
+
+Step 2: B's one-day work:
+
+30
+1
+	​
+
+
+Step 3: Add their work rates.
+
+20
+1
+	​
+
++
+30
+1
+	​
+
+=
+60
+3+2
+	​
+
+=
+60
+5
+=
+12
+1
+	​
+
+
+Together, they complete 
+12
+1
+	​
+
+ of the work per day.
+
+Therefore, the total time is:
+
+12 days
+	​
