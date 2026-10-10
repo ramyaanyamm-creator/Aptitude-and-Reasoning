@@ -1,0 +1,64 @@
+A fair six-sided die is rolled once. What is the probability of getting a number greater than 4?
+
+A) 
+6
+1
+	​
+
+
+B) 
+3
+1
+	​
+
+
+C) 
+2
+1
+	​
+
+
+D) 
+3
+2
+	​
+
+
+Answer: B) 
+3
+1
+	​
+
+
+Explanation:
+
+Step 1: List all possible outcomes.
+
+{1,2,3,4,5,6}
+
+Total outcomes = 6.
+
+Step 2: Find the numbers greater than 4.
+
+{5,6}
+
+Favourable outcomes = 2.
+
+Step 3: Apply the probability formula.
+
+P(E)=
+Total outcomes
+Favourable outcomes
+	​
+
+P(E)=
+6
+2
+	​
+
+=
+3
+1
+	​
+
+	​
