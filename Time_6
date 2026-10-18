@@ -1,0 +1,31 @@
+A person travels 120 km at 40 km/h and returns along the same route at 60 km/h. What is the average speed for the entire journey?
+- A) 45 km/h
+- B) 48 km/h
+- C) 50 km/h
+- D) 52 km/h
+Answer: B) 48 km/h
+Explanation:
+Step 1: Calculate the total distance.
+\[
+120+120=240\text{ km}
+\]
+
+Step 2: Calculate the time for each journey.
+Going:
+\[
+\frac{120}{40}=3\text{ hours}
+\]
+
+Returning:
+\[
+\frac{120}{60}=2\text{ hours}
+\]
+
+Step 3: Calculate average speed.
+\[
+\text{Average speed}=\frac{\text{Total distance}}{\text{Total time}}
+\]
+
+\[
+=\frac{240}{3+2}=\boxed{48\text{ km/h}}
+\]
