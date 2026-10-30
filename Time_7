@@ -1,0 +1,44 @@
+One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in.
+192 min
+108 min
+144 min
+81 min
+Solution:
+ Step 1: Assume the slower pipe takes \(x\) minutes.
+
+The faster pipe fills the tank 3 times as fast as the slower pipe.
+
+Therefore:
+- Slower pipe's time = \(x\) minutes
+- Faster pipe's time = \(\frac{x}{3}\) minutes
+Step 2: Calculate their work rates.
+- Slower pipe's work rate = \(\frac{1}{x}\)
+- Faster pipe's work rate = \(\frac{3}{x}\)
+Together, they fill the tank in 36 minutes.
+
+So,
+\[
+\frac{1}{x}+\frac{3}{x}=\frac{1}{36}
+\]
+Step 3: Solve the equation.
+\[
+\frac{4}{x}=\frac{1}{36}
+\]
+Cross-multiply:
+\[
+x=4\times36
+\]
+\[
+\boxed{x=144\text{ minutes}}
+\]
+🎯 Final Answer: Option 3 — 144 minutes
+Shortcut to remember:
+
+When one pipe is 3 times as fast as another, their work rates are in the ratio \(3:1\).
+
+Together, they complete 4 parts of work in 36 minutes.
+
+The slower pipe alone takes:
+\[
+36\times\frac{4}{1}=\boxed{144\text{ minutes}}
+\]
