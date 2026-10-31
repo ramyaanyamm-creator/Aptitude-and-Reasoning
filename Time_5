@@ -1,0 +1,21 @@
+A can do a certain job in 15 days. B is 50% more efficient than A. The number of days it takes B to do the same piece of work is:
+10
+15
+17
+12
+Solution:
+B is 50% more efficient than A.
+
+Assume A's efficiency = 100%.
+
+Then B's efficiency = 100% + 50% = 150%.
+
+So, the efficiency ratio is:
+
+A : B = 100 : 150 = 2 : 3
+Step 2: Calculate the number of days
+Important formula:
+time(b)=time(a)*(efficency(a)/efficency(b))
+time(b)= 15*2/3
+      =10daays
+Answer:Option A
