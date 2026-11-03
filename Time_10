@@ -1,0 +1,12 @@
+One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:
+81 minutes
+108 minutes
+144 minutes
+192 minutes
+Solution:
+   Slower pipe = 1 unit of work
+   Faster pipe = 3 units of work
+Total=4 units
+slower pipe time=36*1/4
+                144 min
+Option:C
