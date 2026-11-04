@@ -1,0 +1,65 @@
+Gideon can do a piece of work in 35 days, but Hale can do the same work in 21 days less than Gideon, when working alone. Gideon and Hale both started the work together but Hale left after some days and Gideon finished the remaining work in 15 days with half of his efficiency but he did the work with Hale with his complete efficiency. For how many days they had worked together?
+8
+54/7
+58/7
+55/7
+
+Solution:
+  \[
+Hale=35-21=14\text{ days}
+\]
+
+Efficiency (work per day):
+- Gideon = \(1/35\)
+- Hale = \(1/14\)
+Step 2: Calculate Gideon's half efficiency
+After Hale leaves, Gideon works with half of his efficiency for 15 days.
+
+His original efficiency = \(1/35\).
+
+Half efficiency:
+\[
+\frac{1}{35}\times\frac{1}{2}=\frac{1}{70}
+\]
+
+Work completed in 15 days:
+\[
+15\times\frac{1}{70}=\frac{3}{14}
+\]
+
+Step 3: Calculate work done together
+Total work = 1
+
+Remaining work = \(3/14\)
+
+Therefore, work completed together:
+\[
+1-\frac{3}{14}=\frac{11}{14}
+\]
+
+Step 4: Calculate their combined efficiency
+\[
+\frac{1}{35}+\frac{1}{14}
+\]
+
+LCM = 70
+\[
+=\frac{2+5}{70}=\frac{1}{10}
+\]
+
+Step 5: Calculate the number of days
+\[
+Time=\frac{Work}{Efficiency}
+\]
+
+\[
+=\frac{11/14}{1/10}
+\]
+
+\[
+=\frac{11}{14}\times10
+\]
+
+\[
+=\frac{110}{14}=\boxed{\frac{55}{7}}
+\]
