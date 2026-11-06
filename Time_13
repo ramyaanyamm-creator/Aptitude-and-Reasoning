@@ -1,0 +1,18 @@
+15 workers working 8 hours per day complete a job in 12 days. How many days will 20 workers working 6 hours per day take?
+
+10 days
+12 days
+15 days
+16 days
+Solution:
+
+Workers₁ = 15
+Hours₁ = 8
+Days₁ = 12
+Workers₂ = 20
+Hours₂ = 6
+Days₂ = ?
+W_1 *H_1 * D_1 = W_2 * H_2 * D_2
+15*8*12 = 20*6*x
+x=12days
+Answer: Option B
