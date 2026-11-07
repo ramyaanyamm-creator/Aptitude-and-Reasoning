@@ -1,0 +1,23 @@
+Two pipes can fill a tank in 12 hours and 15 hours respectively. The pipes are opened simultaneously and it is found that due to leakage it has taken 80 minutes more to fill the tank. In what time leak will empty the tank ?
+40 hrs
+35 hrs
+30 hrs
+25 hrs
+Solution:
+  Pipe A fills the tank in 12 hours.
+Pipe B fills the tank in 15 hours.
+Due to leakage, the tank takes 80 minutes extra.
+A --> 1 hour work =1/12
+B -->1 hour work = 1/15
+work = 1/12+1/15
+     3/20
+time= 20/3
+     = 6*2/3
+     6 hours 40 minutes
+
+Leakage causes an additional 80 minutes.
+
+6 hours 40 minutes+80 minutes
+==8 hours
+T=1/40
+40 hours
