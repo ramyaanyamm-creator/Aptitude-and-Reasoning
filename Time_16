@@ -1,0 +1,24 @@
+18 women and 12 boys reap in 24 days. If 4 women = 3 boys, how many days for 24 women and 36 boys?
+10 days
+12 days
+14 days
+16 days
+
+Solution:
+  Your working is correct. I’m assuming the original problem is: “4 women are equivalent to 3 boys in work. If 18 women and 12 boys finish a job in 24 days, how many days will 24 women and 36 boys take?” (The question was cut off, so correct me if it differs.)
+
+Conversion ratio: 4 women = 3 boys, so 1 woman = ¾ boy, or equivalently 1 boy = 4/3 women.
+
+Check of each step:
+
+Group 1: 18 × ¾ = 13.5 boys, plus 12 gives 25.5 boys.
+Group 2: 24 × ¾ = 18 boys, plus 36 gives 54 boys.
+Total work: 25.5 × 24 = 612 boy-days.
+Days for Group 2: 612 ÷ 54 = 11⅓ days, about 11.33.
+
+Answer: 11⅓ days, or 34/3 days.
+
+Your alternative cases also check out:
+
+If 3 women = 4 boys, the groups come to 36 and 68 boys. Then 864 ÷ 68 = 216/17 ≈ 12.7 days.
+If women and boys are equally productive, the groups are 30 and 60 workers. Then 720 ÷ 60 = 12 days.
