@@ -1,0 +1,25 @@
+P = Rs. 4800, R = 8% per annum, T = 3 years. Find the compound interest.
+Rs. 1000
+Rs. 1246.62
+Rs. 930
+Rs. 1152
+Soution:
+Formula: A = P(1 + R/100)^T, and CI = A − P
+
+Calculation:
+
+A = 4800 × (1.08)³
+(1.08)³ = 1.259712
+A = 4800 × 1.259712 = Rs. 6046.62
+CI = 6046.62 − 4800 = Rs. 1246.62
+
+Year-by-year check:
+
+Year 1: 4800 × 0.08 = 384, so amount = 5184
+Year 2: 5184 × 0.08 = 414.72, so amount = 5598.72
+Year 3: 5598.72 × 0.08 = 447.90, so amount = 6046.62
+
+Total interest = 384 + 414.72 + 447.90 = 1246.62, which matches.
+
+The correct option is Rs. 1246.62.
+Option:2
