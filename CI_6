@@ -1,0 +1,20 @@
+P = Rs. 1800, C.I = Rs. 280.12, T = 2 years. Find the rate of interest per annum.
+5%
+6%
+8%
+7 1/2%
+Solution:
+Working:
+
+Amount A = P + CI = 1800 + 280.12 = Rs. 2080.12
+A = P(1 + R/100)², so (1 + R/100)² = 2080.12 / 1800 = 1.155622
+1 + R/100 = √1.155622 ≈ 1.075
+R = 7.5%
+
+Check:
+
+Year 1: 1800 × 1.075 = 1935
+Year 2: 1935 × 1.075 = 2080.125
+CI = 2080.125 − 1800 ≈ 280.12 ✓
+
+The correct option is 7½%.
