@@ -1,0 +1,21 @@
+A person invested half of the money he has at a rate of 10% p.a. Compounded annually and the remaining half at a rate of 20% p.a. simple interest. After 2 years he received a total of Rs.2440 from both investments. How much will he receive after 3 years?
+Rs. 2948
+Rs. 3724
+Rs. 3562
+Rs. 2800
+Solution:
+The Rs. 2440 is the total interest from both investments after 2 years. This is the only reading that matches one of the options.
+
+Step 1: Find each half (x)
+
+CI on x at 10% for 2 years = x(1.1² − 1) = 0.21x
+SI on x at 20% for 2 years = x × 20 × 2 / 100 = 0.40x
+Total interest = 0.61x = 2440, so x = Rs. 4000
+
+Step 2: Interest after 3 years
+
+CI = 4000(1.1³ − 1) = 4000 × 0.331 = Rs. 1324
+SI = 4000 × 20 × 3 / 100 = Rs. 2400
+Total = 1324 + 2400 = Rs. 3724
+
+The correct option is Rs. 3724.
