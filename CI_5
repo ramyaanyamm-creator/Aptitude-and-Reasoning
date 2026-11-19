@@ -1,0 +1,18 @@
+A sum of Rs. 550 was taken as a loan to be paid back in two equal installments. If the rate of interest is 20% per annum compounded annually, the value of each installment is
+Rs. 220
+Rs. 300
+Rs. 360
+Rs. 720
+Solution:
+Formula: The present value of the two installments must equal the loan.
+Let each installment be Rs. x, paid at the end of year 1 and year 2.
+x / (1 + 20/100) + x / (1 + 20/100)² = 550
+x/1.2 + x/1.44 = 550
+x × (1.2 + 1) / 1.44 = 550
+x × 2.2 / 1.44 = 550
+x = 550 × 1.44 / 2.2 = Rs. 360
+Check:
+Year 1: 550 × 1.2 = 660. After paying 360, the balance is 300.
+Year 2: 300 × 1.2 = 360. After paying 360, the balance is 0 ✓
+
+The correct option is Rs. 360.
