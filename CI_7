@@ -1,0 +1,14 @@
+A loan was repaid in two annual instatements of Rs. 121/- each. If the rate of interest be 10% per annum compounded annually, the sum borrowed was
+Rs.120
+Rs.220
+Rs.201
+Rs.210
+Solution:
+Working: The sum borrowed is the present value of both installments.
+Sum = 121/(1.1) + 121/(1.1)²
+= 110 + 100
+= Rs. 210
+Check:
+Year 1: 210 × 1.1 = 231. After paying 121, the balance is 110.
+Year 2: 110 × 1.1 = 121. After paying 121, the balance is 0 ✓
+Answer: 210
